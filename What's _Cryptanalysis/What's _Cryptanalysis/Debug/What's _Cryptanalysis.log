@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\What's _Cryptanalysis\What's _Cryptanalysis\Source.cpp(12,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\Desktop\What's _Cryptanalysis\What's _Cryptanalysis\Source.cpp(7,10): warning C4101: 'c': 未參考的區域變數
+  What's _Cryptanalysis.vcxproj -> C:\Users\user\Desktop\What's _Cryptanalysis\Debug\What's _Cryptanalysis.exe
